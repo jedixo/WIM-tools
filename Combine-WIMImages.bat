@@ -1,0 +1,1 @@
+dism /export-image /sourceimagefile:%1 /sourceindex:1 /destinationimagefile:%~dp1combined.wim /compress:max

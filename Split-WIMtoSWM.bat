@@ -1,0 +1,1 @@
+dism /split-image /imagefile:%1 /swmfile:%~dp1out.swm /filesize:4000

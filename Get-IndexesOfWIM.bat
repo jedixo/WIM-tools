@@ -1,0 +1,1 @@
+dism /get-imageinfo /imagefile:%1 > %~dpn1_index.txt
