@@ -1,0 +1,1 @@
+dism /get-WimInfo /WimFile:%1 /index:1 > %~dpn1_index.txt
